@@ -11,7 +11,7 @@
 - 🌱 I’m passionate about developing efficient, scalable software solutions that merge innovative research with real-world applications.
 - 👯 I’m always open to collaborating on exciting projects that push the boundaries of technology.
 - 💬 Feel free to ask me about AI, ML, computer vision, and modern software architectures.
-- 📫 How to reach me: [LinkedIn](#https://www.linkedin.com/in/sagnik-debnath-a18203282/) <!-- Add your LinkedIn profile link here -->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagnik-debnath-a18203282/) <!-- Add your LinkedIn profile link here -->
 
 ### 🛠️ Technologies & Tools
 
@@ -63,7 +63,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/sagnik-debnath-a18203282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnik-debnath-a18203282/)
 </div>
 
 ---
