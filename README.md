@@ -59,17 +59,6 @@
 
 [![Sagnik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagnikdebnath07&theme=tokyo-night)](https://github.com/sagnikdebnath07)
 
-### 👀 Profile Visitors
-
-<div align="center">
-  <a href="https://github.com/sagnikdebnath07">
-    <img src="https://komarev.com/ghpvc/?username=sagnikdebnath07&color=blue&style=flat-square" alt="Profile Views" />
-  </a>
-  <p style="font-style: italic; color: #586069; margin-top: 10px;">
-    Thanks for stopping by! Your visit makes my day brighter.
-  </p>
-</div>
-
 ### 🤝 Connect With Me
 
 <div align="center">
