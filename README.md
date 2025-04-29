@@ -11,7 +11,7 @@
 - 🌱 I’m passionate about developing efficient, scalable software solutions that merge innovative research with real-world applications.
 - 👯 I’m always open to collaborating on exciting projects that push the boundaries of technology.
 - 💬 Feel free to ask me about AI, ML, computer vision, and modern software architectures.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagnik-debnath-a18203282/) <!-- Add your LinkedIn profile link here -->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagnik-debnath-a18203282/)
 
 ### 🛠️ Technologies & Tools
 
@@ -59,11 +59,23 @@
 
 [![Sagnik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagnikdebnath07&theme=tokyo-night)](https://github.com/sagnikdebnath07)
 
+### 👀 Profile Visitors
+
+<div align="center">
+  <a href="https://github.com/sagnikdebnath07">
+    <img src="https://komarev.com/ghpvc/?username=sagnikdebnath07&color=blue&style=flat-square" alt="Profile Views" />
+  </a>
+  <p style="font-style: italic; color: #586069; margin-top: 10px;">
+    Thanks for stopping by! Your visit makes my day brighter.
+  </p>
+</div>
+
 ### 🤝 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnik-debnath-a18203282/)
+  <a href="https://www.linkedin.com/in/sagnik-debnath-a18203282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
