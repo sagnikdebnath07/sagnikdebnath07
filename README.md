@@ -28,11 +28,6 @@
 - **Tech Stack:** Python, Static Analysis Algorithms, CI/CD Integration
 - **Highlights:** Automated code quality assessment, seamless developer workflow integration, and insightful analytics.
 
-#### 🎨 Origamis Pro
-- **Description:** A creative fusion of art and technology, generating intricate design patterns and visually stunning outputs.
-- **Tech Stack:** JavaScript, Canvas API, Data Visualization
-- **Highlights:** Algorithmic art creation, unique visual aesthetics, and innovative software design.
-
 #### 🖼️ Inpainting with VAE
 - **Description:** An innovative image restoration solution utilizing Variational Autoencoders to achieve seamless inpainting.
 - **Tech Stack:** Python, TensorFlow/PyTorch, Deep Learning
