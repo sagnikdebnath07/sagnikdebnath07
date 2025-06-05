@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hi, I'm Sagnik Debnath</h1>
-  <h3>Passionate Software Developer | Open Source Enthusiast</h3>
+  <h3>Passionate Software Developer | Open Source Enthusiast | Budding FinTech and Finance Enthusiast</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm an enthusiastic software developer dedicated to building innovative solutions across a range of domains—from intelligent code assistance and automated code analysis to advanced deep learning techniques in image restoration and multimodal sentiment analysis. I enjoy exploring new technologies and love to collaborate on projects that blend research with real-world applications. I also enjoy developing robust and scalable backend for innovative and problem solving websites.
+I'm an enthusiastic software developer dedicated to building innovative solutions across a range of domains—from intelligent code assistance and automated code analysis to advanced deep learning techniques in image restoration and multimodal sentiment analysis. I enjoy exploring new technologies and love to collaborate on projects that blend research with real-world applications. I also enjoy developing robust and scalable backend for innovative and problem solving websites. I also love exploring the world of finance, fintech and financial modelling.
 
 ### 🛠️ Technologies & Tools
 
