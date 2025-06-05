@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Sagnik Debnath</h1>
-  <h3>Passionate Software Developer | Open Source Enthusiast | Budding FinTech and Finance Enthusiast</h3>
+  <h3>Passionate Software Developer | Open Source Enthusiast | FinTech and Finance Enthusiast</h3>
 </div>
 
 ---
