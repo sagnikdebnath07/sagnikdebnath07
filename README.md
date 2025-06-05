@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm an enthusiastic software developer dedicated to building innovative solutions across a range of domains—from intelligent code assistance and automated code analysis to advanced deep learning techniques in image restoration and multimodal sentiment analysis. I enjoy exploring new technologies and love to collaborate on projects that blend research with real-world applications.
+I'm an enthusiastic software developer dedicated to building innovative solutions across a range of domains—from intelligent code assistance and automated code analysis to advanced deep learning techniques in image restoration and multimodal sentiment analysis. I enjoy exploring new technologies and love to collaborate on projects that blend research with real-world applications. I also enjoy developing robust and scalable backend for innovative and problem solving websites.
 
 ### 🛠️ Technologies & Tools
 
@@ -82,7 +82,7 @@ I'm an enthusiastic software developer dedicated to building innovative solution
 ---
 
 <div align="center">
-  <b>Thanks for visiting my profile! Last updated: 2025-04-23</b>
+  <b>Thanks for visiting my profile! Last updated: 2025-06-06</b>
 </div>
 
 <!--
