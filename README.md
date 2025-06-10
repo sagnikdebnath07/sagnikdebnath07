@@ -10,7 +10,7 @@ I'm an enthusiastic software developer dedicated to building innovative solution
 
 ## 🌟 Featured Projects
 
-#### 💻 ZCoder
+### 💻 ZCoder
 - **Short Intro:** An online code editor and code practice platform with global chat, user creation, interactive UI and much more.
 - **Features:** 
   - Live global chat
@@ -18,7 +18,7 @@ I'm an enthusiastic software developer dedicated to building innovative solution
   - Dynamic profile creation and profile editing options
 - **Tech Stack:** Node.js, Express, MongoDB, Socket.io
 
-#### 🖥️ CodeHawk
+### 🖥️ CodeHawk
 - **Short Intro:** An innovative code analysis and error fixing directly integrated into your cli which migrates and fixes issue in any directory residing on your machine.
 - **Features:** 
   - Automated code quality assessments
@@ -26,7 +26,7 @@ I'm an enthusiastic software developer dedicated to building innovative solution
   - Intelligent localization and fixing abilities  
 - **Tech Stack:** Python, LangChain, LangGraph, LLMs
 
-#### 🖼️ Inpainting with VAE
+### 🖼️ Inpainting with VAE
 - **Short Intro:** A cutting-edge image restoration solution that leverages Variational Autoencoders to seamlessly reconstruct missing or corrupted parts of images.
 - **Features:** 
   - Advanced generative modeling for high-fidelity image reconstruction
@@ -34,7 +34,7 @@ I'm an enthusiastic software developer dedicated to building innovative solution
   - Robust performance in challenging restoration scenarios  
 - **Tech Stack:** Python, TensorFlow/PyTorch, Deep Learning
 
-#### 😃 Multimodal Analysis with MELD
+### 😃 Multimodal Analysis with MELD
 - **Short Intro:** A comprehensive system that taps into text, audio, and visual cues to analyze and recognize emotions accurately in real time.
 - **Features:** 
   - Multimodal sentiment analysis combining diverse data sources
